@@ -17,3 +17,8 @@
     - 管理用IAMユーザー作成。請求関連(Billing)の閲覧はAWSアカウントのみ。
     - グループ作成。
     - パスワードポリシー適用。
+
+- S3 (Simple Storage Service)
+    - バケット作成。 (azuma-work)
+    - オブジェクトにcreate-react-appのbuildフォルダアップロード。  
+    →静的ホスティングの設定をしてブラウザで表示確認。
