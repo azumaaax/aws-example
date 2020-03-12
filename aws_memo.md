@@ -50,3 +50,6 @@
         ```
         $ aws history show 7bd6883c-a8ff-407c-8f45-bb7d29c22a45
         ```
+
+- CloudFrontでディストリビューション作成
+    - xxxxx.cloudfront.netでs3においたreactがブラウザで表示できるようになった。
