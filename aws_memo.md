@@ -52,4 +52,10 @@
         ```
 
 - CloudFrontでディストリビューション作成
-    - xxxxx.cloudfront.netでs3においたreactがブラウザで表示できるようになった。
+    - xxxxx.cloudfront.netでS3においたreactがブラウザで表示できるようになった。
+
+- 次やること
+    - Route53で独自ドメイン取得し、xxxxx.cloudfront.netと紐つける。
+    - Route53の無料利用枠確認。
+    - reactのファイルを編集して、差分をS3にアップする。（復習）
+
